@@ -19,16 +19,10 @@ Plots the Elbow Curve to identify the optimal number of clusters.
 git clone https://github.com/sarmitamajumdar/CRM-Elbow-Method.git
 
 
-### License
-This project is licensed under the Apache License.
-
-
-
-
-
-
-Code Structure
+### Code Structure
 elbow_method.py → Main script that applies TF-IDF, runs K-Means, computes WCSS, and plots the Elbow Curve.
 README.md → Project documentation.
-License
-This project is licensed under the MIT License.
+
+
+### License
+This project is licensed under the Apache Version 2.0, January 2004
