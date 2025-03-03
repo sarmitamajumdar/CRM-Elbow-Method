@@ -14,11 +14,16 @@ Plots the Elbow Curve to identify the optimal number of clusters.
 
 ## Installation
 #### Make sure you have Python 3.x installed, and install the required dependencies:
->>> pip install numpy matplotlib scikit-learn
+!pip install numpy matplotlib scikit-learn
 
->>> git clone https://github.com/your-username/your-repo.git
->>> cd your-repo
-Run the script:
+git clone https://github.com/sarmitamajumdar/CRM-Elbow-Method.git
+
+
+### License
+This project is licensed under the Apache License.
+
+
+
 
 
 
